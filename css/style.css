@@ -6,7 +6,7 @@
   }
   
   body {
-    background-color: #090e22;
+    background-color: #26252b;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,9 +19,9 @@
   }
   
   .container {
-    min-width: 400px;
-    min-height: 400px;
-    background-color: #1d1e33;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #0a3d80;
     padding: 2rem;
   }
   
@@ -83,6 +83,8 @@
   /* Table */
   #result-container {
     text-align: center;
+    min-width: 100px;
+    min-height: 100px;
   }
   
   #imc-number {
